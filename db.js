@@ -5,8 +5,8 @@ var mysql = require('mysql2');
    var connection =mysql.createConnection({
       host : 'localhost',
       port:'3306',
-      user : 'nodejs',
-      password : '-A41p947v',
+      user : 'putYourUser',
+      password : 'putYourPass',
       database : 'bancodedados'
    });
 
