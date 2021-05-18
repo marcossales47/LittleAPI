@@ -4,8 +4,6 @@ const corsUse=cors();
 
 
 
-/*Interessante notar que a configuração do API e das rotas só vem depois da configuração
-do mongoose*/
 
 const api=require('./api');
 
